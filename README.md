@@ -1,10 +1,10 @@
-# cs426_Sanchez_Isaac_Mask_Mayhem
+# Mask_Mayhem
 
 Most Updated scene: "DemoAsgn9" in "main" branch
 
 Group members: Isaac Sanchez, Victor Savage, Ahmed Ruyyashi
 
-# Controls for Asgn9MaskMayhemPublicDemo (our latest build): 
+# Controls for MaskMayhemPublicDemo (our latest build): 
 
 - A/D or left/right keys to rotate mask left or right before launching
                    
@@ -14,7 +14,7 @@ Group members: Isaac Sanchez, Victor Savage, Ahmed Ruyyashi
                    
 - Hold and let go of space bar to charge and then release force to launch the mask during their turn
 
-# Assignment 6 Notes
+#  Notes
 
 ### For physics, we used a hinge joint for our mouse trap, particle systems for the masks, and basic box collisions for when the mask touches the face trigger around the human, or when the mask makes contact with the trampoline in the level. 
 
@@ -38,7 +38,7 @@ Group members: Isaac Sanchez, Victor Savage, Ahmed Ruyyashi
 
 These components help make the game more challenging and/or help convey a sense of both humor and mystery, as the premise of masks stealing personality from others can be seen as both funny as somewhat dark. The new entrapments and powerups make the gameplay more engaging
 
-# Assignment 7 Notes
+
 
 ### UI Design Issues
 - There is a lack of clarity in terms of the distinction between the win text color and the trap message color. The texts should either be more uniform, or the win text should be more colorful to get the player’s attention towards the fact that they won. (Victor)
@@ -170,7 +170,7 @@ For the win sound effect, we rejected clips of people talking. For the trampolin
 
 We added sounds for the mask landing, the mask being launched, the mask hitting the mouse trap/sticky trap/roomba, the mouse charging power, the mask adjusting its angle, the mask hitting a trampoline, and the mask hitting the face and winning. We also added background music for the start menu and main level, and background noise for the gremlin and the mouse. The mouse noise was made with lip sounds, and he power-charging sounds was made with an ocarina. The angle adjusting sound was made with snapping. These sounds helped make our game more mysterious, but fun.
 
-# Assignment 8 Notes
+
 ### Ahmed Additions
 Ahmed added an eye shader which makes the game more humorous and unsettling, made the traps appear clearly so players don’t fall into it without knowing its dangerous, also made a intro logo at the beginning of the game to make it look more professional and to introduce the game to the player, and made the objective of the goal clearer so they players should know what to aim for when playing the game.
 
